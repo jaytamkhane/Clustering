@@ -7,7 +7,7 @@ This repository contains solutions to both theoretical and practical questions r
 
 - [Clustering Assignment.ipynb](https://github.com/jaytamkhane/Clustering/blob/main/Clustring_Assignments_.ipynb): Jupyter Notebook containing all solutions (both theoretical explanations and practical implementations)
 
-- [requirements.txt](): List of Python dependencies required to run the notebook
+- [requirements.txt](https://github.com/jaytamkhane/Clustering/blob/main/requirements.txt): List of Python dependencies required to run the notebook
 
 ## Datasets Used
 The notebook uses the following datasets from scikit-learn:
